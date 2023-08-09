@@ -1,5 +1,3 @@
-## final-project-cool-team-name
-
 #  Analyzing Billboard Top 100 songs from 1958-2021 
 
 Project team members: Javad Eshtiyagh, Hsin-Keng Ling, Xin Tang, Helen Yap
